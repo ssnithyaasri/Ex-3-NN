@@ -104,7 +104,8 @@ predict(w1,w2,test)
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/ssnithyaasri/Ex-3-NN/assets/119122478/87a80339-b8b2-4293-9f15-761f878ff31e)
+
+![image](https://github.com/ssnithyaasri/Ex-3-NN/assets/119122478/55dbc707-a6e0-4d49-97cd-d7b4ad06f62e)
 
 
 <H3> Result:</H3>
